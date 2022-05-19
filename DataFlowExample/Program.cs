@@ -41,9 +41,11 @@ namespace DataFlowExample
             var loop = new List<int> { 1, 2, 3, 4, 5 };
             Parallel.ForEach(loop, async (a) =>
             {
+                Console.WriteLine("sending job: " + a);
                 while (true)
                 {
-                    _bufferBlock.SendAsync(new Input() { InputValue = a });
+                    Console.WriteLine("Working on job#: " + a);
+                    await _bufferBlock.SendAsync(new Input() { InputValue = a });
                     await Task.Delay(5000).ConfigureAwait(false);
                 }
             });

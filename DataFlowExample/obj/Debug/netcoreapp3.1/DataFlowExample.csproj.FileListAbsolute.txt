@@ -1,0 +1,14 @@
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.exe
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.deps.json
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.runtimeconfig.json
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.runtimeconfig.dev.json
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.dll
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\bin\Debug\netcoreapp3.1\DataFlowExample.pdb
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.csproj.AssemblyReference.cache
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.AssemblyInfoInputs.cache
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.AssemblyInfo.cs
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.csproj.CoreCompileInputs.cache
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.dll
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.pdb
+C:\Users\khanhtran148\source\repos\ConsoleApp1\DataFlowExample\obj\Debug\netcoreapp3.1\DataFlowExample.genruntimeconfig.cache
